@@ -15,3 +15,4 @@
  }
  z = 6;
  //console.log(z); <-- Essa linha, se descomentada, gera erro pois z é local ao bloco acima
+// Desenvolvido por Samantha Raquel
