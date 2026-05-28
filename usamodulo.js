@@ -2,7 +2,7 @@
 // Arquivo criado na raiz do projeto
 // Importação dos módulos disponíveis no arquivo definemodulo.js
 
-const oper = require('./biblioteca/definemodulo.js');
+const oper = require('./Biblioteca/definemodulo.js');
 
 var x = 3, y = 5
 
